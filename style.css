@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: url(images/bg-tree.jpg) no-repeat;
+    background: url(images/photo_2023-06-08_13-59-15.jpg) no-repeat;
     background-size: cover;
 }
 
@@ -13,7 +13,7 @@ body {
     text-align: center;
     margin: auto;
     margin-top: 5%;
-    color: #fff;
+    color:#fff;
     font-family: 'Century Gothic',sans-serif;
 }
 
@@ -54,7 +54,7 @@ ul{
 }
 
 .box li a{
-    color: #fff;
+    color:#b612b679 ;
     text-decoration: none;
     font-size: 60px;
 
